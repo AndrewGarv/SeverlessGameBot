@@ -1,6 +1,8 @@
 # SeverlessGameBot
  This is a severless bot made using AWS. It simulates ordering video games and consoles from 3 different stores
 https://consoleorderbot.s3.ca-central-1.amazonaws.com/index.html
+
+The bot can be located at the bottom right of the page
 ## How to use
 Tell the bot that you would like to buy a game. It will then ask which console you would like to buy. Your options are
 - Nintendo Switch
